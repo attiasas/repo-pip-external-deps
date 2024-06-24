@@ -1,2 +1,2 @@
--e git+https://github.com/z3ntu/python-pkgbuild@7afcd99050ba091e7bf1f2aa4bc87e83df3cdea2
+-e git+https://github.com/z3ntu/python-pkgbuild@7afcd99050ba091e7bf1f2aa4bc87e83df3cdea2#egg=python-pkgbuild
 # pexpect==4.7.0
